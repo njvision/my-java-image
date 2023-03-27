@@ -1,6 +1,6 @@
-Docker and GitHub Container Registry
+# Docker and GitHub Container Registry
 
-# authenticate with GitHub Container Registry (Windows)
+#authenticate with GitHub Container Registry (Windows)
 $ winpty docker login ghcr.io
 
 #tag the image
